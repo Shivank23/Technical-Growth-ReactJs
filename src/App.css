@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@500&family=Mulish:ital@0;1&display=swap');
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family:'Mulish', sans-serif ;
+}
+.navbar-brand{
+  font-size: 1.5rem !important;
+  font-weight: 300;
+  color:#565387 !important; 
+  
+}
+.navbar-brand:hover{
+  color:lightskyblue;
+}
+.navbar a {
+  font-size: 1.1rem;
+  text-transform: capitalize;
+}
+.navbar a:hover{
+  color: #3498db !important;
+}
+.heading{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 50px;
+  
+}
+.menu-item{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+.homebutton{
+  font-size: 15px;
+  margin-top:5px ;
+  background-color: white !important;
+  color: #3498db;
+  box-shadow: 0 10px 20px -12px black;
+}
+.homebutton:hover{
+color:white;
+background-color:#3498db !important;
+}
+.brandname{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #3498db;
+
+}
+
+
+
+
+

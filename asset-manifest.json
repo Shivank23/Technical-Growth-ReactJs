@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Technical-Growth-ReactJs/static/css/main.68ac3400.chunk.css",
+    "main.js": "/Technical-Growth-ReactJs/static/js/main.cf78ab95.chunk.js",
+    "main.js.map": "/Technical-Growth-ReactJs/static/js/main.cf78ab95.chunk.js.map",
+    "runtime-main.js": "/Technical-Growth-ReactJs/static/js/runtime-main.8dd21931.js",
+    "runtime-main.js.map": "/Technical-Growth-ReactJs/static/js/runtime-main.8dd21931.js.map",
+    "static/css/2.9a8cfa92.chunk.css": "/Technical-Growth-ReactJs/static/css/2.9a8cfa92.chunk.css",
+    "static/js/2.20d46540.chunk.js": "/Technical-Growth-ReactJs/static/js/2.20d46540.chunk.js",
+    "static/js/2.20d46540.chunk.js.map": "/Technical-Growth-ReactJs/static/js/2.20d46540.chunk.js.map",
+    "index.html": "/Technical-Growth-ReactJs/index.html",
+    "static/css/2.9a8cfa92.chunk.css.map": "/Technical-Growth-ReactJs/static/css/2.9a8cfa92.chunk.css.map",
+    "static/css/main.68ac3400.chunk.css.map": "/Technical-Growth-ReactJs/static/css/main.68ac3400.chunk.css.map",
+    "static/js/2.20d46540.chunk.js.LICENSE.txt": "/Technical-Growth-ReactJs/static/js/2.20d46540.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd21931.js",
+    "static/css/2.9a8cfa92.chunk.css",
+    "static/js/2.20d46540.chunk.js",
+    "static/css/main.68ac3400.chunk.css",
+    "static/js/main.cf78ab95.chunk.js"
+  ]
+}
